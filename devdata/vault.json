@@ -1,0 +1,6 @@
+{
+    "secrets": {
+        "csv": "https://robotsparebinindustries.com/orders.csv",
+        "robotUrl": "https://robotsparebinindustries.com/#/robot-order"
+    }
+}
